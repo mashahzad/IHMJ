@@ -6,5 +6,5 @@ Individual contributions are welcome.😉
 
 ### Contact
 
-- 📫  [Gmail](mashahzad999@gmail.com)
-- 📱   [Instagram](@marsso77)
+- 📫  [Gmail](mailto:mashahzad999@gmail.com)
+- 📱   [Instagram](https://www.instagram.com/marsso77)
