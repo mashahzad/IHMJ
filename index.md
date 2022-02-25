@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## I HATE MY JOB
 
 You can use the [editor on GitHub](https://github.com/mashahzad/IHMJ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
