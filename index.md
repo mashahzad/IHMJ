@@ -6,5 +6,5 @@ Please navigate to  [my working directory](https://github.com/mashahzad/Unity) f
 
 ### Contact
 
-📫  [Gmail](mashahzad999@gmail.com)
-📱   [Instagram](@marsso77)
+- 📫  [Gmail](mashahzad999@gmail.com)
+- 📱   [Instagram](@marsso77)
