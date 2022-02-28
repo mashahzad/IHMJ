@@ -1,4 +1,4 @@
-_# I HATE MY JOB_
+# Oh my JOB!
 
 Please navigate to  [my working directory](https://github.com/mashahzad/Unity) for more information on this project.
 
